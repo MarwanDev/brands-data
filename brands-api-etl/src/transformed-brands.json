@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "66069ff93007b006635c0245",
+    "brandName": "Ward, Hand and Ortiz",
+    "headquarters": "Jastside",
+    "yearFounded": 1600,
+    "numberOfLocations": 2132
+  },
+  {
+    "_id": "66069ff93007b006635c0246",
+    "brandName": "Ergonomic Frozen Bacon",
+    "headquarters": "Gavinstead",
+    "yearFounded": 1600,
+    "numberOfLocations": 1
+  },
+  {
+    "_id": "66069ff93007b006635c0247",
+    "brandName": "Breitenberg, Greenholt and Ledner",
+    "headquarters": "Fort Lenna",
+    "yearFounded": 1982,
+    "numberOfLocations": 1000
+  },
+  {
+    "_id": "66069ff93007b006635c0248",
+    "brandName": "Modern Granite Fish",
+    "headquarters": "Kundebury",
+    "yearFounded": 1970,
+    "numberOfLocations": 1
+  },
+  {
+    "_id": "66069ff93007b006635c0249",
+    "brandName": "Gorgeous Granite Pizza",
+    "headquarters": "Jonesborough",
+    "yearFounded": 1980,
+    "numberOfLocations": 1
+  },
+  {
+    "_id": "66069ff93007b006635c024a",
+    "brandName": "Oriental Plastic Pants",
+    "headquarters": "Wardfort",
+    "yearFounded": 1970,
+    "numberOfLocations": 1
+  },
+  {
+    "_id": "66069ff93007b006635c024b",
+    "brandName": "Refined Granite Towels",
+    "headquarters": "Lemkeland",
+    "yearFounded": 1600,
+    "numberOfLocations": 1
+  },
+  {
+    "_id": "66069ff93007b006635c024c",
+    "brandName": "Corkery Inc",
+    "headquarters": "DuBuqueburgh",
+    "yearFounded": 1935,
+    "numberOfLocations": 9200
+  },
+  {
+    "_id": "66069ff93007b006635c024d",
+    "brandName": "Licensed Concrete Tuna",
+    "headquarters": "West Mylesboro",
+    "yearFounded": 1600,
+    "numberOfLocations": 1
+  },
+  {
+    "_id": "66069ff93007b006635c024e",
+    "brandName": "Generic Cotton Pizza",
+    "headquarters": "North Ralphport",
+    "yearFounded": 1600,
+    "numberOfLocations": 1
+  }
+]
